@@ -1,0 +1,2 @@
+# BirthdatNoteTaker
+swift ile geliştirilmiştir.
