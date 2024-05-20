@@ -1,13 +1,13 @@
 # BirthdatNoteTaker
 swift ile geliştirilmiştir.
-> 1- text field oluştur name ve birthday adlı iki tane oluştur.
+ 1- text field oluştur name ve birthday adlı iki tane oluştur.
 
 2-button oluştur içine save (kaydetme butonu)yaz ve delete(sil) buton oluştur.
 
 3-label oluştur name ve birthday yazılı iki tane oluştur.
-> 
 
-> Cod oluşturun
+
+ Cod oluşturun
 
 1- textfield control tuşuyla basılı tutup sınıfın altına bırak nameTextField yaz aynısını birthdayTextField içinde yapıyoruz.
 
@@ -16,7 +16,7 @@ swift ile geliştirilmiştir.
 3-button control tuşuna basılı tutup en aşağıya bırakalım çünkü actionumuz olacak saveClicked yazalım.
 
 4- sınırları düzgün olması için reset to suggested constraints tuşuna basalım.
->
+
 
 
 
