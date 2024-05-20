@@ -1,5 +1,7 @@
 # BirthdatNoteTaker
 swift ile geliştirilmiştir.
+birthdaynotetakerapp için adım adım aşağıdaki adımları yapalım.
+
  1- text field oluştur name ve birthday adlı iki tane oluştur.
 
 2-button oluştur içine save (kaydetme butonu)yaz ve delete(sil) buton oluştur.
